@@ -1,1 +1,1 @@
-* [迁移须知](/urm/)
+* [迁移须知](/urm/migration_rules)
